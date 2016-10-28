@@ -2,7 +2,7 @@
 ważne rzeczy
  ## dużo tekstu
  ### wincyj
-
+dodalo sie cos
  ~~bardzo~~
 
  *mnij*
